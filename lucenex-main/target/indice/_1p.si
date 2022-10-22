@@ -1,0 +1,28 @@
+    version 9.4.0
+    min version 9.4.0
+    number of documents 3
+    uses compound file true
+    diagnostics 8
+      key timestamp
+      value 1666278451138
+      key java.runtime.version
+      value 17+35-LTS-2724
+      key java.vendor
+      value Oracle Corporation
+      key os
+      value Windows 10
+      key os.arch
+      value amd64
+      key os.version
+      value 10.0
+      key lucene.version
+      value 9.4.0
+      key source
+      value flush
+    attributes 0
+    files 2
+      file _1p.si
+      file _1p.scf
+    id bKŸÊ#öæ}¬cäC‹Ù
+    sort 0
+checksum 00000000002055454987
